@@ -5,11 +5,10 @@ img{
   float: right;
 }
 
-.navbar-color{
+body{
   background-color: #778DA9;
-  background-image: none;
-  background-repeat: no-repeat;
 }
+
 
 .h1-font{
   font-size: 40px;
