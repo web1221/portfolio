@@ -4,3 +4,7 @@ img{
   padding: 15px;
   float: right;
 }
+
+li{
+  text-decoration: underline;
+}
