@@ -5,9 +5,6 @@ img{
   float: right;
 }
 
-li{
-  text-decoration: underline;
-}
 
 .h1-font{
   font-size: 40px;
@@ -15,4 +12,15 @@ li{
 
 .justify{
   text-align: justify;
+}
+
+.home-page{
+  padding-bottom: 70px;
+  justify-content: center;
+  padding-top: 70px;
+}
+
+.italics li{
+  font-style: italic;
+  text-decoration: none;
 }
