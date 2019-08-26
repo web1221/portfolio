@@ -11,8 +11,7 @@ This project was created to demonstrate and practice concepts learned in class b
 ## Setup
 
 There are 3 buttons on the navigation bar. The home button leads you to the home screen which is some contact informations. If you click on the projects page, there is a list of projects. If you hover over the list, you can click it and be linked to the git repository.
-Here is the link: https://web1221.github.io/portfolio/projects.html
-
+Here is the link: https://web1221.github.io/portfolio
 
 
 ## Technologies Used
